@@ -756,3 +756,27 @@ ul {
     height: 220px;
   }
 }
+
+.projects-category {
+  margin-top: 56px;
+}
+
+.projects-category:first-of-type {
+  margin-top: 0;
+}
+
+.category-header {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.category-header h3 {
+  font-size: 1.7rem;
+  color: var(--brown-dark);
+  margin-bottom: 6px;
+}
+
+.category-header p {
+  color: rgba(74, 47, 36, 0.8);
+  font-size: 0.98rem;
+}
